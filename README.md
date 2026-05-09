@@ -165,17 +165,6 @@ ID 3 -> Angry (79%)
 
 ---
 
-# Applications
-
-* Smart surveillance systems
-* Human behavior analysis
-* AI-based audience analytics
-* Emotion-aware applications
-* Mental health monitoring research
-* Interactive AI systems
-* Real-time engagement analysis
-
----
 
 # Challenges Faced
 
